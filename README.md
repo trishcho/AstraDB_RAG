@@ -5,6 +5,9 @@
 This notebook provides a step-by-step guide to setting up a simple Retrieval-Augmented Generation (RAG) pipeline using RAGStack. 
 
 
+![Screenshot 2024-08-29 at 9 48 10 PM](https://github.com/user-attachments/assets/ad577bef-305c-4e8f-99ab-49c4e3d0bfd3)
+
+
 Overview
 A RAG pipeline typically requires a vector store, an embedding model, and a Language Learning Model (LLM). In this tutorial, we utilize the following components:
 
